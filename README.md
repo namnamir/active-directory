@@ -5,4 +5,4 @@ Here will be scripts reading, alerting, or modifying *Active Directory* paramete
 
 | Name | Dependencies | Description |
 |------|--------------|-------------|
-|Bulk AD User Generator | List of Users | Add Bulk users to Active Directory with all possible properties. For getting the list of all properties, visit [Microsoft Windows Server Documentation Page.](https://docs.microsoft.com/en-us/powershell/module/addsadministration/new-aduser?view=win10-ps)
+|[Bulk AD User Generator](https://github.com/namnamir/active-directory/blob/master/bulk_user.ps1) | [List of Users (example)](https://github.com/namnamir/active-directory/blob/master/assets/Mock_Users.csv) | Add Bulk users to Active Directory with all possible properties. For getting the list of all properties, visit [Microsoft Windows Server Documentation Page.](https://docs.microsoft.com/en-us/powershell/module/addsadministration/new-aduser?view=win10-ps)
