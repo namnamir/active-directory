@@ -1,5 +1,5 @@
 # Scripts for Active Directory
-Here will be scripts reading, alerting, or modifying *Active Directory* parameters. I am not a PowerShell expert, so scripts may look very basic but these scripts have saved my life. I decided to share them with other, may solve their issues or save their time.
+Here will be scripts reading, alerting, or modifying *Active Directory* parameters. I am not a PowerShell developer, so scripts may look basic but they have saved my time on (pen)tests. I decided to share them with other, may solve their issues or save their time.
 
 ## List of Scripts
 
